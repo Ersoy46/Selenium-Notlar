@@ -12,6 +12,12 @@ public class C01_TekrarTesti {
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
 
+        //yeni bir class oluşturun
+        driver.navigate().to("https://youtube.com");
+
+        //youtube sayfasına gidelim ve sayfa başlıgının "youtube" olu olmadıgını dogrulayın
+        //eger değilse dogru başlıgı konsolda yazdırın
+
 
     }
 }
