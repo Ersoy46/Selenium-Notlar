@@ -18,7 +18,7 @@ public class C01_DepensOnMethod {
     //BİR CLASS OLUŞTURUN
     //https://www.amazon.com gidin
     // 1. TEST: AMAZON ANA SAYFASINA GİTTİGİNİZİ TEST EDİN
-    //2. TEST: 1.TEST BAŞARILI İSE SEARCH BAX'İ KULLANARAJ "NUTELLA" İÇİN ARAMA YAPİN
+    //2. TEST: 1.TEST BAŞARILI İSE SEARCH BAX'İ KULLANARAK "NUTELLA" İÇİN ARAMA YAPİN
     // ve aramanızın gerçekleştigini test edin
     //3.Test :"NUTELLA" için arama yapıldıysa ilk ürünü tıklayın ve fiyatınn 16.83$ oldugunu test edin
 

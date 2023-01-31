@@ -9,6 +9,7 @@ import org.testng.annotations.Test;
 import java.time.Duration;
 
 public class C02_SoftAssert {
+
     //https:zerowebappsecurity.com sayfasına gşdelim
     //Sign in butonuna basınız
     //login kutusuna "Username" yazın
