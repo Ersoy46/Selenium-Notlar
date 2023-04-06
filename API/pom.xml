@@ -42,6 +42,7 @@
             <version>2.14.1</version>
         </dependency>
 
+<<<<<<< HEAD
         <!-- https://mvnrepository.com/artifact/com.google.code.gson/gson -->
         <dependency>
             <groupId>com.google.code.gson</groupId>
@@ -53,6 +54,9 @@
             <artifactId>jackson-core-asl</artifactId>
             <version>1.9.13</version>
         </dependency>
+=======
+
+>>>>>>> deneme123/main
     </dependencies>
 
 </project>
